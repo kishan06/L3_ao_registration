@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  go_router: 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -39,7 +39,7 @@ dependencies:
   l2_a_o_registration:
     git:
       url: https://github.com/kishan06/ao_registrationL2.git
-      ref: 0.0.2
+      ref: 0.0.5
   # l2_initial_registration_process_final:
   #   git:
   #     url: https://github.com/kishan06/l2_initialRegistrationProcessV2s.git

@@ -125,8 +125,8 @@ packages:
     dependency: transitive
     description:
       path: "dependencies/ff_commons"
-      ref: "0.0.2"
-      resolved-ref: "4e0ee91ce10125458e960793adc49b4ef5836522"
+      ref: "0.0.5"
+      resolved-ref: fa7ec759bb6c3feefc850f335b0380a89ade0868
       url: "https://github.com/kishan06/ao_registrationL2.git"
     source: git
     version: "1.0.0+1"
@@ -134,8 +134,8 @@ packages:
     dependency: transitive
     description:
       path: "dependencies/ff_theme"
-      ref: "0.0.2"
-      resolved-ref: "4e0ee91ce10125458e960793adc49b4ef5836522"
+      ref: "0.0.5"
+      resolved-ref: fa7ec759bb6c3feefc850f335b0380a89ade0868
       url: "https://github.com/kishan06/ao_registrationL2.git"
     source: git
     version: "1.0.0+1"
@@ -240,7 +240,7 @@ packages:
     source: hosted
     version: "7.7.0"
   go_router:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: go_router
       sha256: c5fa45fa502ee880839e3b2152d987c44abae26d064a2376d4aad434cf0f7b15
@@ -299,8 +299,8 @@ packages:
     dependency: transitive
     description:
       path: "dependencies/l1_component_headers_and_footers_9376zz"
-      ref: "0.0.2"
-      resolved-ref: "4e0ee91ce10125458e960793adc49b4ef5836522"
+      ref: "0.0.5"
+      resolved-ref: fa7ec759bb6c3feefc850f335b0380a89ade0868
       url: "https://github.com/kishan06/ao_registrationL2.git"
     source: git
     version: "0.0.13"
@@ -308,8 +308,8 @@ packages:
     dependency: transitive
     description:
       path: "dependencies/l1_components_vo6ate"
-      ref: "0.0.2"
-      resolved-ref: "4e0ee91ce10125458e960793adc49b4ef5836522"
+      ref: "0.0.5"
+      resolved-ref: fa7ec759bb6c3feefc850f335b0380a89ade0868
       url: "https://github.com/kishan06/ao_registrationL2.git"
     source: git
     version: "0.0.25"
@@ -317,8 +317,8 @@ packages:
     dependency: transitive
     description:
       path: "dependencies/l1_presentation_qgr4y2"
-      ref: "0.0.2"
-      resolved-ref: "4e0ee91ce10125458e960793adc49b4ef5836522"
+      ref: "0.0.5"
+      resolved-ref: fa7ec759bb6c3feefc850f335b0380a89ade0868
       url: "https://github.com/kishan06/ao_registrationL2.git"
     source: git
     version: "0.0.20"
@@ -326,8 +326,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "0.0.2"
-      resolved-ref: "4e0ee91ce10125458e960793adc49b4ef5836522"
+      ref: "0.0.5"
+      resolved-ref: fa7ec759bb6c3feefc850f335b0380a89ade0868
       url: "https://github.com/kishan06/ao_registrationL2.git"
     source: git
     version: "1.0.0+1"
